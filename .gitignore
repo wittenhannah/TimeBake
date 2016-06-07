@@ -1,3 +1,4 @@
 # Precompiled Headers
 *.zip
 *.mobileprovision
+/fastlane
